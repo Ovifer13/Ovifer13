@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ovidio Rodriguez
 - 👀 I’m interested in Coding and Games
-- 🌱 I’m currently learning React, JavaScript and Python
+- 🌱 I’m currently learning React, JavaScript and Nodejs
+-
 - 📫 How to reach me: ovifer02@gmail.com
 
 <!---
